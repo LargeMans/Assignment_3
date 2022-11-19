@@ -17,3 +17,5 @@ Fixed all errors, finsihed CRUD
 
 Day 6 
 Changed up looks and submitted 
+
+WHEN UPLOADING IT REFUSES TO PUSH NODE_MODULES TO GIT HUB
